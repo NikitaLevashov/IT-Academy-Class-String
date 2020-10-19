@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\ClassString\bin\Debug\netcoreapp3.1\ClassString.exe
+C:\Users\Lenovo\source\repos\ClassString\bin\Debug\netcoreapp3.1\ClassString.deps.json
+C:\Users\Lenovo\source\repos\ClassString\bin\Debug\netcoreapp3.1\ClassString.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ClassString\bin\Debug\netcoreapp3.1\ClassString.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\ClassString\bin\Debug\netcoreapp3.1\ClassString.dll
+C:\Users\Lenovo\source\repos\ClassString\bin\Debug\netcoreapp3.1\ClassString.pdb
+C:\Users\Lenovo\source\repos\ClassString\obj\Debug\netcoreapp3.1\ClassString.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ClassString\obj\Debug\netcoreapp3.1\ClassString.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ClassString\obj\Debug\netcoreapp3.1\ClassString.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ClassString\obj\Debug\netcoreapp3.1\ClassString.dll
+C:\Users\Lenovo\source\repos\ClassString\obj\Debug\netcoreapp3.1\ClassString.pdb
